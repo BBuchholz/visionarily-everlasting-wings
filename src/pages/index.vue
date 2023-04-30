@@ -16,7 +16,7 @@ const { t } = useI18n()
 
 <template>
   <div>
-    <img alt="Coventry Grove Builders Association Presents logo" src="/CGBAP_LOGO_CROPPED.png">
+    <img alt="JusBeU logo" src="/JusBeU-LOGO.png">
     <p>
       <a rel="noreferrer" href="https://github.com/BBuchholz/worthy-mountain" target="_blank">
         JusBeU
@@ -55,8 +55,8 @@ meta:
 
 <style>
 img {
-  height: 25%;
-  width: 25%;
+  height: 100%;
+  width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
