@@ -81,10 +81,7 @@ ntl deploy --prod
 
 When you use this template, try to follow the checklist to update your info properly 
 
-- [ ] Modify LICENSING as needed
-
-- [ ] Change the title in `App.vue` 
-- [ ] Change title on home page
+- [ ] build a LOGO!
 
 - [ ] Change the default MYRIAD SYMBOL to reflect Desired Branding
 

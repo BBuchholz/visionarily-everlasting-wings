@@ -3,9 +3,9 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'Coventry Grove Builders Association Presents - Worthy Mountain',
+  title: 'JusBeU',
   meta: [
-    { name: 'description', content: 'Base Template for all Coventry Grove Projeckts' },
+    { name: 'description', content: 'JusBeU Beloved Upliftment' },
     {
       name: 'theme-color',
       content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
